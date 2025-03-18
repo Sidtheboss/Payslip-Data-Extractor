@@ -49,6 +49,5 @@ print(extracted_data)
 ## 👨‍💻 Author
 Developed by **Siddharth**
 
----
-This project helps automate payslip data extraction for HR & payroll management. 🚀
+
 
