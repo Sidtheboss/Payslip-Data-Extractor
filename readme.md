@@ -1,6 +1,6 @@
 # Payslip Data Extractor
 
-## 📌 Overview
+## -> Overview
 This project extracts key details from a payslip image (JPG/PNG) using Optical Character Recognition (OCR) and Natural Language Processing (NLP). The extracted information includes:
 - Employee Name
 - Designation
